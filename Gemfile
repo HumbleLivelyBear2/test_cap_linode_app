@@ -4,6 +4,7 @@ gem 'rails', '3.2.1'
 
 ############################################################test
 
+gem 'mysql2'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
